@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashika Sahu</h1>
-<h3 align="center">A passionate Software Engineer having expertise in DevOps and MERN Stack⚡</h3>
+<h3 align="center">A passionate Software Engineer having expertise in DevOps and Cloud⚡</h3>
 
 ###
 
